@@ -1,0 +1,32 @@
+  <footer id="footer-primary">
+      <div class="wrap">
+<div class="footer-bottom">
+  <ul id="library-address">
+    <li><a href="http://www.library.vanderbilt.edu">Jean and Alexander Heard Library</a></li>
+    <li>419 21st Avenue South</li>
+    <li>Nashville, TN 37203</li>
+    <li>615-322-7100</li>
+  </ul>
+
+  <ul id="nav-footer-tools">
+    <li class="hours">
+      <a href="http://www.library.vanderbilt.edu/hours.php">Hours</a>
+    </li>
+    <li class="about">
+		<a href="http://www.library.vanderbilt.edu/about/index.php">About</a>
+    </li>
+    <li class="employment">
+		<a href="http://www.library.vanderbilt.edu/about/employment.php">Employment</a>
+    </li>
+    <li class="staff">
+      <a href="http://www.library.vanderbilt.edu/staff.php">Staff</a>
+    </li>
+    <li class="contact">
+		<a href="http://www.library.vanderbilt.edu/about/contact.php">Contact</a>
+    </li>
+  </ul>
+</div>
+<!-- testing -->
+<!-- /footer-bottom -->
+</div>
+   </footer>

@@ -1,0 +1,46 @@
+#header>.row {
+	background-color: #333;
+	border-bottom: 0.25rem solid #dfae67;
+}
+
+.h1 {
+	color: #dfae67;
+}
+
+.col-sm-8.h1 a {
+    color: #dfae67;
+}
+
+.logo {
+	display: block;
+  	-moz-box-sizing: border-box;
+  	box-sizing: border-box;
+  	background: url(/assets/images/heard-logo.svg) no-repeat;
+  	width: 255px; /* Width of new image */
+  	height: 100px; /* Height of new image */
+  	padding-left: 255px; /* Equal to width of new image */
+}
+
+.badge-and-identifier {
+    font-size: 18px;
+}
+
+.panel-footer {
+    height: 100px;
+    padding: 10px 15px;
+    background-color: #eeeeee;
+    border-top: 0.25rem solid #05538a;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
+
+.col-sm-9 {
+	width: 66.7%;
+	float: right;
+}
+
+.col-sm-3 {
+	width: 33.3%;
+	float: right;
+}
+
