@@ -3,6 +3,28 @@
 	border-bottom: 0.25rem solid #dfae67;
 }
 
+.graphic-header__title a {
+  color: #fff;
+}
+.graphic-header__title a:hover {
+  color: #d8ab4c;
+}
+
+#navigation {
+	margin-bottom: 1rem;
+}
+
+.navbar-default .navbar-toggle {
+  background-color: transparent !important;
+}
+
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > .open > a:hover, 
+.navbar-default .navbar-nav > .open > a:focus {
+	color: #fff;
+	text-decoration: none;
+}
+
 .h1 {
 	color: #dfae67;
 }
@@ -34,13 +56,6 @@
     border-bottom-left-radius: 0px;
 }
 
-.col-sm-9 {
-	width: 66.7%;
-	float: right;
+.vu-footer {
+	margin-top: 3rem;
 }
-
-.col-sm-3 {
-	width: 33.3%;
-	float: right;
-}
-
