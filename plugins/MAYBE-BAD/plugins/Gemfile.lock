@@ -1,14 +1,18 @@
 GEM
   remote: http://rubygems.org/
   specs:
+    mini_portile2 (2.3.0)
+    nokogiri (1.8.3)
+      mini_portile2 (~> 2.3.0)
     nokogiri (1.8.3-java)
     rubyXL (3.1.0)
       nokogiri (>= 1.4.4)
       rubyzip (>= 1.0.0)
-    rubyzip (1.2.1)
+    rubyzip (2.2.0)
 
 PLATFORMS
   java
+  ruby
 
 DEPENDENCIES
   rubyXL (= 3.1.0)
