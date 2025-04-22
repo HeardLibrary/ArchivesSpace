@@ -1,1 +1,0 @@
-DigitalObject.include(Islandora::Deposits)
